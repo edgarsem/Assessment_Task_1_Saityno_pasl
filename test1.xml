@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Movies>
+    <movie>
+        <id>1</id>
+        <title>Amélie</title>
+        <length>122</length>
+        <genres>
+            <genre>
+                <id>1</id>
+                <category>Comedy</category>
+            </genre>
+        </genres>
+        <directors>
+            <director>
+                <id>1</id>
+                <name>Jean-Pierre</name>
+                <lastName>Jeunet</lastName>
+            </director>
+        </directors>
+        <writers>
+            <writer>
+                <id>1</id>
+                <name>Guillaume</name>
+                <lastName>Laurant</lastName>
+            </writer>
+        </writers>
+        <cast>
+            <actor>
+                <id>1</id>
+                <name>Audrey</name>
+                <lastName>Tautou</lastName>
+                <age>53</age>
+            </actor>
+        </cast>
+        <reviews>
+            <review>
+                <id>1</id>
+                <criticism>This Movie can CHANGE your life :-)</criticism>
+                <rating>10</rating>
+                <user>
+                    <id>1</id>
+                    <name>John</name>
+                    <lastName>Doe</lastName>
+                </user>
+            </review>
+        </reviews>
+    </movie>
+</Movies>

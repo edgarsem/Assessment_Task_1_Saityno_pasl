@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Movies>
+        <title>Avengers: Infinity War</title>
+        <length>140</length>
+        <genres>
+            <genre>
+                <id>24</id>
+                <category>Action</category>
+            </genre>
+            <genre>
+                <id>25</id>
+                <category>Adventure</category>
+            </genre>
+        </genres>
+        <directors>
+            <director>
+                <id>22</id>
+                <name>Joe</name>
+                <lastName>Rusoo</lastName>
+            </director>
+            <director>
+                <id>23</id>
+                <name>Anthony</name>
+                <lastName>Russo</lastName>
+            </director>
+        </directors>
+        <writers>
+            <writer>
+                <id>30</id>
+                <name>Joe</name>
+                <lastName>Rusoo</lastName>
+            </writer>
+            <writer>
+                <id>31</id>
+                <name>Anthony</name>
+                <lastName>Russo</lastName>
+            </writer>
+        </writers>
+        <cast>
+            <actor>
+                <id>18</id>
+                <name>Robert</name>
+                <lastName>Downey Jr.</lastName>
+                <age>61</age>
+            </actor>
+            <actor>
+                <id>19</id>
+                <name>Chris</name>
+                <lastName>Evens</lastName>
+                <age>41</age>
+            </actor>
+            <actor>
+                <id>20</id>
+                <name>Chris</name>
+                <lastName>Hemsworth</lastName>
+                <age>39</age>
+            </actor>
+            <actor>
+                <id>21</id>
+                <name>Scarlett</name>
+                <lastName>Johansonn</lastName>
+                <age>42</age>
+            </actor>
+        </cast>
+        <reviews>
+            <review>
+                <id>26</id>
+                <criticism>This movie rocks.</criticism>
+                <rating>10</rating>
+                <user>
+                    <id>27</id>
+                    <name>Edgar</name>
+                    <lastName>Semasko</lastName>
+                </user>
+            </review>
+            <review>
+                <id>28</id>
+                <criticism>I kinda like this movie.</criticism>
+                <rating>8</rating>
+                <user>
+                    <id>29</id>
+                    <name>John</name>
+                    <lastName>Doe</lastName>
+                </user>
+            </review>
+        </reviews>
+</Movies>
